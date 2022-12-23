@@ -8,7 +8,7 @@ body {
   color: black;
 }
 #navbar {
-  background-image: url("../Resources/darickround.jpeg");
+  background-image: url("Resources/darickround.jpeg");
   list-style-type: none;
   margin: 0;
   padding: 0;
