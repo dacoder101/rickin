@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-image: url("../Resources/uidiothaha.gif")
+}
+
+#rickf {
+  font-size: 75px;
+}
+#rickftx {
+  color: black;
+  text-decoration: none;
+}
+#navbar {
+  background-image: url("../Resources/darickround.jpeg");
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#linav {
+  float: left;
+}
+#anav {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#anav:hover {
+  color: white;
+}
+.active {
+  text-decoration: underline;
+}
