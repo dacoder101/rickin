@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+#rickgif {
+  text-decoration: none;
+  color: black;
+}
+#navbar {
+  background-image: url("../Resources/darickround.jpeg");
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#linav {
+  float: left;
+}
+#anav {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#anav:hover {
+  color: white;
+}
+.active {
+  text-decoration: underline;
+}
+.rotate {
+  animation: rotation 0.5s infinite linear;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
