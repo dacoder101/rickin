@@ -1,5 +1,6 @@
 body {
-  
+  background-image: url("Resources/ricksshakinarms.gif");
+  background-repeat: no-repeat;
 }
 #navbar {
   background-image: url("Resources/darickround.jpeg");
