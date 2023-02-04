@@ -1,9 +1,19 @@
+@font-face {
+  font-family: ricktxt;
+  src: url("../Resources/rickfonto.ttf");
+}
+
+#rickcredit {
+  font-family: ricktxt;
+  font-stretch: semi-expanded;
+}
+
 body {
-  background-image: url("Resources/rickboi.jpeg");
+  background-image: url("../Resources/rickboi.jpeg");
   background-repeat: no-repeat;
 }
 #navbar {
-  background-image: url("Resources/darickround.jpeg");
+  background-image: url("../Resources/darickround.jpeg");
   list-style-type: none;
   margin: 0;
   padding: 0;
