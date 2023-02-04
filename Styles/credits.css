@@ -9,8 +9,9 @@
 }
 
 body {
-  background-image: url("../Resources/rickboi.jpeg");
+  background-image: url("../Resources/ricksshakinarms.gif");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #navbar {
   background-image: url("../Resources/darickround.jpeg");
